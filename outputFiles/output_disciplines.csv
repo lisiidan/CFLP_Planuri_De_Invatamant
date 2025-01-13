@@ -1,0 +1,116 @@
+﻿Nume Disciplina,Cod Disciplina,Nr Credite,Forma Evaluare,Nr Ore Curs,Nr Ore Seminar,Nr Ore Laborator
+Analiză matematică,L001.23.01.F1,4,E,28,28,0
+Matematici asistate de calculator,L001.23.02.F1,5,D,28,0,28
+Rețele de calculatoare,L001.23.03.D1,4,D,28,0,28
+Proiectarea și analiza algoritmilor,L001.23.04.D1,5,E,28,0,28
+Algebră și geometrie,L001.23.01.F2,4,D,28,28,0
+Probabilități și statistică,L001.23.02.F2,5,E,42,28,0
+Structuri de date și algoritmi,L001.23.03.D2,5,E,28,0,28
+Fundamente de inginerie software,L001.23.04.D2,6,E,42,0,28
+Fizică,L001.23.01.F3,4,E,28,0,14
+Dispozitive electronice și măsurări,L001.23.02.D3,5,E,42,0,28
+Programarea orientată pe obiecte,L001.23.03.D3,5,E,42,0,28
+Baze de date,L001.23.04.D3,4,E,28,0,28
+Programarea calculatoarelor,L001.23.01.F4,6,E,42,0,28
+Tehnici de programare,L001.23.02.F4,6,E,28,0,28
+Arhitectura calculatoarelor,L001.23.03.D4,5,E,42,0,28
+Sisteme de operare 1,L001.23.04.D4,4,E,28,0,28
+Logică și structuri discrete,L001.23.01.F5,4,E,28,0,28
+Logica digitala,L001.23.02.D5,5,E,28,0,28
+Electronica digitala,L001.23.03.D5,4,D,28,0,28
+Calculatoare numerice,L001.23.04.D5,6,D,42,0,14
+Electrotehnică,L001.23.01.D6,4,D,28,0,14
+Limbi străine 2,L001.23.02.C6,2,D,0,28,0
+Achizitia si prelucrarea datelor,L001.23.03.D6,5,E,28,0,28
+Comunicare,L001.23.04.C6,3,D,28,14,0
+Limbi străine 1,L001.23.01.C7,2,D,0,28,0
+Educație fizică 2,L001.23.02.C7,2,D,0,14,0
+Educație fizică 3,L001.23.03.C7,2,D,0,14,0
+Educație fizică 4,L001.23.04.C7,2,D,0,14,0
+Educație fizică 1,L001.23.01.C8,2,D,0,14,0
+Disciplină facultativă
+(se alege din tabelul corespunzător sem. 1),L001.23.01.f11-ij,,,,,
+Disciplină facultativă
+(se alege din tabelul corespunzator sem. 2),L001.23.02.11-ij,,,,,
+Disciplină facultativă
+(se alege din tabelul corespunzător sem. 3),L001.23.03.11-ij,,,,,
+Disciplină facultativă
+(se alege din tabelul corespunzător sem. 4),L001.23.04.11-ij,,,,,
+Bazele inteligentei artificiale,L001.23.05.D1,5,E,42,0,28
+Grafica asistata de calculator,L001.23.06.F1,4,D,42,0,28
+Administrarea rețelelor,L001.23.07.S1,5,D,42,0,14
+Antreprenoriat in CTI,L001.23.08.S1,2,D,28,14,0
+Proiectarea cu microprocesoare,L001.23.05.D2,5,E,28,0,14
+Securitatea sistemelor de calcul ,L001.23.06.S2,4,E,28,0,28
+Optional 8. (1-9),L001.23.07.S2-ij,5,E,28,0,28
+Optional 12. (1-7),L001.23.08.S2-ij,5,E,28,0,14
+Optional 1. (1-4),L001.23.05.D3-ij,5,D,28,0,28
+Optional 4. (1-7),L001.23.06.S3-ij,3,E,28,0,28
+Optional 9. (1-9),L001.23.07.S3-ij,5,E,28,0,28
+Optional 13. (1-7),L001.23.08.S3-ij,5,E,28,0,14
+Optional 2. (1-4),L001.23.05.D4-ij,5,D,28,0,28
+Optional 5. (1-7),L001.23.06.S4-ij,3,E,28,0,28
+Optional 10. (1-9),L001.23.07.S4-ij,5,E,28,0,28
+Optional 14. (1-7 + C),L001.23.08.S4-ij,5,E,28,0,14
+ Sisteme de operare 2,L001.23.05.D5,5,E,28,0,28
+Optional 6. (1-7 + C),L001.23.06.S5-ij,3,E,28,0,28
+Optional 11. (1-9 + C),L001.23.07.S5-ij,5,E,28,0,28
+Optional 15. (1-7 + C),L001.23.08.S5-ij,5,E,28,0,14
+Optional 3. (5-6),L001.23.05.S6-ij,5,E,28,0,28
+Optional 7. (8-9),L001.23.06.C6-ij,3,D,14,14,0
+Management si marketing,L001.23.07.C6,3,D,14,14,0
+Elaborare proiect de diplomă,L001.23.08.S6,4,C,0,0,0
+Microeconomie,L001.23.06.C7,2,D,28,14,0
+Elaborare proiect de specialitate,L001.23.07.S7,2,C,0,0,0
+Practica 3 pentru elaborarea proiectului de diploma,L001.23.08.S7,4,C,0,0,0
+Practica 1 de domeniu,L001.23.06.D8,4,C,0,0,0
+Examen de diplomă*,L001.23.08.8,10,E,,,
+Practica 2 de specialitate,L001.23.06.S9,4,C,0,0,0
+Disciplină facultativă
+(se alege din tabelul corespunzător sem. 5),L001.23.05.11-ij,,,,,
+Disciplină facultativă
+(se alge din tabelul corespunzător sem. 6),L001.23.06.11-ij,,,,,
+Optional 1.-2. Prelucrarea imaginilor,L001.23.05.D3-01,5,D,28,0,28
+Optional 4.-6. Proiectarea și dezvoltarea aplicațiilor web,L001.23.06.S3-01,3,E,28,0,28
+Optional 8.-11. Administrarea aplicatiilor de tip CMS,L001.23.07.S2-01,5,E,28,0,28
+Optional 12.-15. Managementul infrastructurii IT,L001.23.08.S2-01,5,E,28,0,14
+Optional 1.-2. Algoritmi paraleli si distribuiti,L001.23.05.D3-02,5,D,28,0,28
+Optional 4.-6. Programare .NET,L001.23.06.S3-02,3,E,28,0,28
+Optional 8.-11. Calcul de inalta performanta (HPC),L001.23.07.S2-02,5,E,28,0,28
+Optional 12.-15. Retele complexe si aplicatii,L001.23.08.S2-02,5,E,28,0,14
+Optional 1.-2. Ingineria si testarea sistemelor de calcul,L001.23.05.D3-03,5,D,28,0,28
+Optional 4.-6. Administrarea sistemelor de operare,L001.23.06.S3-03,3,E,28,0,28
+Optional 8.-11. Interfete om calculator,L001.23.07.S2-03,5,E,28,0,28
+Optional 12.-15. IoT si arhitecturi Cloud,L001.23.08.S2-03,5,E,28,0,14
+Optional 1.-2. Modelare si simulare,L001.23.05.D3-04,5,D,28,0,28
+Optional 4.-6. Analiza si vizualizarea datelor,L001.23.06.S3-04,3,E,28,0,28
+Optional 8.-11. Bioinformatica si Genomica Functionala,L001.23.07.S2-04,5,E,28,0,28
+Optional 12.-15. Senzori și rețele de senzori,L001.23.08.S2-04,5,E,28,0,14
+Optional 3. Accelerarea hardware a aplicatiilor,L001.23.05.S6-05,5,E,28,0,28
+Optional 4.-6. Complexitate si calculabilitate,L001.23.06.S3-05,3,E,28,0,28
+Optional 8.-11. Integrarea sistemelor de calcul,L001.23.07.S2-05,5,E,28,0,28
+Optional 12.-15. Analiza volumelor mari de date (Big data),L001.23.08.S2-05,5,E,28,0,14
+Optional 3. Administrarea bazelor de date,L001.23.05.S6-06,5,E,28,0,28
+Optional 4.-6. Sisteme incorporate,L001.23.06.S3-06,3,E,28,0,28
+Optional 8.-11. Programare concurentă și bazată pe evenimente,L001.23.07.S2-06,5,E,28,0,28
+Optional 12.-15. Structuri tolerante la defecte,L001.23.08.S2-06,5,E,28,0,14
+Optional 4.- 6. Servicii complexe in retelele de calculatoare,L001.23.06.S3-07,3,E,28,0,28
+Optional 8.-11. Agenti inteligenti si aplicatii WEB,L001.23.07.S2-07,5,E,28,0,28
+Optional 12.-15. Proiectarea driverelor,L001.23.08.S2-07,5,E,28,0,14
+Optional 7. Etica si integritate academica,L001.23.06.C6-08,3,D,14,14,0
+Optional 8.-11. Proiectarea bazelor de date,L001.23.07.S2-08,5,E,28,0,28
+Optional 7. Cultura si civilizatie,L001.23.06.C6-09,3,D,14,14,0
+Optional 8.-11. Proiectarea si analiza aplicatiilor mobile,L001.23.07.S2-09,5,E,28,0,28
+Psihologia educației,L001.23.01.f11-01,5,E,28,28,0
+Pedagogie I: -Teoria și metodologia curriculumului ,L001.23.02.f11-01,5,E,28,28,0
+Pedagogie II: Teoria si metodologia instruirii, Teoria și metodologia evaluării,L001.23.03.f11-01,5,E,28,28,0
+Didactica specialității,L001.23.04.f11-01,5,E,28,28,0
+Voluntariat,L001.23.02.f11-02,2,C,0,0,28
+Limbi straine,L001.23.03.f11-02,2,D,0,28,0
+Voluntariat,L001.23.04.f11-02,2,C,0,0,28
+Limbi straine,L001.23.04.f11-03,2,D,0,28,0
+Practica pedagogica in invatamantul preuniversitar obligatoriu (1),L001.23.05.f11-01,3,C,0,0,0
+Managementul clasei de elevi,L001.23.06.f11-01,3,E,14,14,0
+Voluntariat,L001.23.08.f11-01,2,C,0,0,28
+Practica pedagogica in invatamantul preuniversitar obligatoriu (2),L001.23.06.f11-02,2,C,0,0,0
+Voluntariat,L001.23.06.f11-03,2,C,0,0,28
